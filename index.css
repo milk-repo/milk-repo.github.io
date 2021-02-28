@@ -1,0 +1,57 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    height: 100px;
+}
+
+h1,
+h2,
+h3 {
+    color:rgb(79, 91, 102)
+}
+
+p {
+    color: rgb(116, 130, 143);
+    text-align: center !important;
+}
+
+p,
+li {
+    text-align: left;
+    font-size:  18px;
+    color: rgb(116, 130, 143)
+}
+
+a {
+    text-decoration: none;
+}
+
+#menu-outer {
+	height: 84px;
+	background: cornsilk;
+}
+
+.table {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
+
+ul#horizontal-list {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+	}
+	ul#horizontal-list li {
+		display: inline;
+	}
+
+    footer {
+        display: inline-block;
+    }
